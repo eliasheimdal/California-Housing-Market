@@ -1,2 +1,6 @@
 
 predict.py
+
+tuned_model.pkl
+
+scaler.pkl
